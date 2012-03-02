@@ -1,0 +1,17 @@
+[Plugin]
+Loader=python
+Module=cutline
+IAge=3
+Authors=Bruno Cassol <brunocassol@gmail.com>
+Copyright=Copyright © 2012 Bruno Cassol
+Website=http://www.brunocassol.com
+Version=1.0
+
+Name=Cut line CTRL+x
+Name[en_CA]=Cut line CTRL+x
+Name[en_GB]=Cut line CTRL+x
+Name[pt_BR]=Recortar linha CTRL+x
+Description=Cut lines with CTRL+x if no text selected.
+Description[en_CA]=Cut lines with CTRL+x if no text selected.
+Description[en_GB]=Cut lines with CTRL+x if no text selected.
+Description[pt_BR]=Recortar linhas apenas com CTRL+x
